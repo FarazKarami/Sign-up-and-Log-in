@@ -1,0 +1,107 @@
+body{
+    background-color: #1b1d31;
+}
+#h1{
+    text-align: center;
+    background-color: #24253d;
+    color: #f3f4f5;
+    font-family: sans-serif;
+    margin: 20px 400px 0 400px;
+    padding: 30px;
+}
+.form{
+    text-align: center;
+    background-color: #24253d;
+    margin: 0 400px;
+    padding: 15px;
+}
+.name{
+    border: #e53753 solid 1px;
+    outline: none;
+    width: 100px;
+    height: 40px;
+    background-color: #24253d;
+    color: #f3f4f5;
+    border-radius: 25px;
+    padding-left: 15px;
+    margin: 0 5px;
+    font-family: sans-serif;
+}
+.name::placeholder{
+    color: #f3f4f5;
+}
+.forminput{
+    border: #e53753 solid 1px;
+    outline: none;
+    width: 240px;
+    height: 40px;
+    background-color: #24253d;
+    color: #f3f4f5;
+    border-radius: 25px;
+    padding-left: 15px;
+    margin: 0 5px;
+    font-family: sans-serif;
+}
+.forminput::placeholder{
+    color: #f3f4f5;
+}
+.gender{
+    display: inline;
+    color: #f3f4f5;
+    font-family: sans-serif;
+}
+.selectgender{
+    border: #e53753 solid 1px;
+    outline: none;
+    width: 200px;
+    height: 40px;
+    background-color: #24253d;
+    color: #f3f4f5;
+    border-radius: 25px;
+    padding-left:  15px;
+    margin: 0 5px;
+    font-family: sans-serif;
+}
+.checkbox{
+    color: #f3f4f5;
+    font-family: sans-serif;
+}
+.checkbox a{
+    color: #e53753;
+    text-decoration: none;
+}
+.submit{
+    border: #e53753 solid 1px;
+    outline: none;
+    width: 240px;
+    height: 40px;
+    background-color: #e53753;
+    color: #f3f4f5;
+    border-radius: 25px;
+    font-family: sans-serif;
+}
+.redirect{
+    text-align: center;
+    background-color: #24253d;
+    padding: 50px 20px 20px 20px;
+    margin: 0 400px;
+    color: #f3f4f5;
+    font-family: sans-serif;
+}
+.redirect p, a{
+    display: inline;
+}
+.redirect a{
+    color: #e53753;
+    text-decoration: none;
+}
+.forgot{
+    background-color: #24253d;
+    margin: 0 400px;
+    padding: 50px 20px 20px 20px;
+    font-family: sans-serif;
+}
+.forgot a{
+    color: #e53753;
+    text-decoration: none;
+}
